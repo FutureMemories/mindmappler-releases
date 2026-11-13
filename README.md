@@ -9,8 +9,6 @@ For a Mac with Apple silicon and macOS 13 or later.
 1. Download `Mindmappler-x.y.z-arm64.dmg` from the [latest release](https://github.com/FutureMemories/mindmappler-releases/releases/latest), open it, and drag Mindmappler to Applications.
 2. Open Mindmappler from Applications. macOS checks it once and asks whether to open an app downloaded from the internet: click Open.
 
-The app is signed and notarised by Future Memories AB.
-
 Your first workspace is `~/Mindmappler/Maps`. Keep workspaces in `~/Mindmappler`: for one in Documents, Desktop or iCloud Drive, macOS asks for access again after every update.
 
 ## Updates
